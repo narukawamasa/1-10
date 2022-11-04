@@ -59,5 +59,14 @@ footer {
 }
 
 @media screen and (max-width:768px) {
-  
+  main {
+    width: 100%;
+    display: block;
+  }
+  .main-box {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-bottom: 20px;
+  }
 }
